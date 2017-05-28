@@ -15,7 +15,9 @@
   },
   "dependencies": {
     "fs-plus": "^3.0.0",
-    "inflection": "^1.12.0"
+    "fuzzaldrin-plus": "^0.4.1",
+    "inflection": "^1.12.0",
+    "lodash.sortby": "^4.7.0"
   },
   "devDependencies": {
     "eslint": "^3.19.0",
