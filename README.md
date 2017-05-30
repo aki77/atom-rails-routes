@@ -1,5 +1,18 @@
-# rails-routes package
+# Rails Routes
 
-A short description of your package.
+Autocomplete+ and hyperclick provider for Rails routes.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+## Features
+
+**Autocomplete provider**
+
+![A screenshot](https://i.gyazo.com/5dc09fb3ac9d18881e6d7e32d244698c.gif)
+
+**Hyperclick provider**
+
+![A screenshot](https://i.gyazo.com/7657febab1170ca47deaac26a577de4c.gif)
+
+## TODO
+
+- [ ] Multi-Folder Projects
+- [ ] Watch routes.rb

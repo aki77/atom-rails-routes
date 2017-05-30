@@ -2,11 +2,12 @@
   "name": "rails-routes",
   "main": "./lib/main",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Autocomplete+ and hyperclick provider for Rails routes.",
   "keywords": [
     "rails",
     "routes",
-    "autocomplete"
+    "autocomplete",
+    "hyperclick"
   ],
   "repository": "https://github.com/aki77/atom-rails-routes",
   "license": "MIT",
