@@ -26,6 +26,11 @@
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.3.0"
   },
+ "activationCommands": {
+    "atom-workspace": [
+      "rails-routes:reload"
+    ]
+  },
   "activationHooks": [
     "language-ruby:grammar-used",
     "language-ruby-on-rails:grammar-used",
