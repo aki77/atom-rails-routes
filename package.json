@@ -1,7 +1,7 @@
 {
   "name": "rails-routes",
   "main": "./lib/main",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Autocomplete+ and hyperclick provider for Rails routes.",
   "keywords": [
     "rails",
@@ -26,7 +26,7 @@
     "eslint-config-airbnb-base": "^11.2.0",
     "eslint-plugin-import": "^2.3.0"
   },
- "activationCommands": {
+  "activationCommands": {
     "atom-workspace": [
       "rails-routes:reload"
     ]
