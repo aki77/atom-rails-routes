@@ -6,11 +6,11 @@ Autocomplete+ and hyperclick provider for Rails routes.
 
 **Autocomplete provider**
 
-![A screenshot](https://i.gyazo.com/5dc09fb3ac9d18881e6d7e32d244698c.gif)
+![A screenshot](https://i.gyazo.com/eccb9bb0c08a6da76a66fe3cbcb57416.gif)
 
 **Hyperclick provider**
 
-![A screenshot](https://i.gyazo.com/7657febab1170ca47deaac26a577de4c.gif)
+![A screenshot](https://i.gyazo.com/a5067e4fc9cec1f50253d0df12a2f17c.gif)
 
 ## TODO
 
