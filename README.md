@@ -15,4 +15,3 @@ Autocomplete+ and hyperclick provider for Rails routes.
 ## TODO
 
 - [ ] Multi-Folder Projects
-- [ ] Watch routes.rb
