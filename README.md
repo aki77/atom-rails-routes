@@ -1,5 +1,7 @@
 # Rails Routes
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/aki77/atom-rails-routes.svg)](https://greenkeeper.io/)
+
 Autocomplete+ and hyperclick provider for Rails routes.
 
 ## Features
