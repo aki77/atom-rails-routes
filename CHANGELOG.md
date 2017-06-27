@@ -1,3 +1,6 @@
+## 0.1.3
+* Support for button_to
+
 ## 0.1.2
 * Fix bug
 
