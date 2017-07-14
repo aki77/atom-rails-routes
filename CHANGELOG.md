@@ -1,3 +1,6 @@
+## 0.1.5
+* Support for Capybara::Session#visit
+
 ## 0.1.4
 * Fix a bit
 
