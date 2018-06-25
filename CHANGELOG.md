@@ -1,3 +1,7 @@
+## 0.2.1
+
+- Fix bug
+
 ## 0.2.0
 
 - busy-signal -> atom-ide-busy-signal
