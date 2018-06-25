@@ -1,7 +1,7 @@
 {
   "name": "rails-routes",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Autocomplete+ and hyperclick provider for Rails routes.",
   "keywords": [
     "rails",
